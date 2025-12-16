@@ -1,0 +1,5 @@
+{
+  "name": "AI Interna Mutante Design",
+  "description": "A powerful AI image editor powered by Gemini 2.5 Flash Image. Upload an image and use natural language to modify clothes, background, or style while preserving key features.",
+  "requestFramePermissions": []
+}
